@@ -1,5 +1,5 @@
 
-# Hello World  I'm Suraj 👾
+# Hello Beautiful World I'm Suraj 👾
 <h3 align="center">I'm a Beginner in web Development with Passion, dedication, and a lot of coffee </h3>
   
   <img src="https://komarev.com/ghpvc/?username=suraj81271" alt="suraj81271" />
@@ -19,6 +19,6 @@
 - ⚡ Fun fact: - Hey, I am chandllllerrrrrr......owaaaaahhhhh!!!
 <br>
 <hr>
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj81271)
+[![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj81271)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj81271&layout=compact&hide=html" alt="suraj81271" />
   
