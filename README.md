@@ -1,11 +1,14 @@
-# Hi there 👋
+
+# Hello World  I'm Suraj 👾
+<h3 align="center"># Passion, dedication, and a lot of coffee/h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=AjazRizvi123" alt="AjazRizvi123" />
+  
+[![Repos Badge](https://badges.pufler.dev/repos/suraj81271)](https://badges.pufler.dev)
+
+[![Years Badge](https://badges.pufler.dev/years/suraj81271)](https://badges.pufler.dev)
 ## Here is What i am Workin' on!-
-Hi there 👋 I'm Suraj 👾
-# A passionate Web Developer from India
 
-Repos Badge
-
-Years Badge
 
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... React.js
