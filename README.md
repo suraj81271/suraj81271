@@ -19,6 +19,6 @@
 - ⚡ Fun fact: - Hey, I am chandllllerrrrrr......owaaaaahhhhh!!!
 <br>
 <hr>
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj81271&show_icons=true&theme=radical)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj81271&layout=compact&hide=html" alt="suraj81271" />
   
