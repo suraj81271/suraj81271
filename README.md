@@ -10,11 +10,11 @@
 ## Here is What i am Workin' on!-
 
 
-###- 🌱 I’m currently learning ... React.js
-##- 👯 I’m looking to collaborate on ... React.js
-##- 🤔 I’m looking for help with ... Python
-###- 💬 Ask me about ... Anything
-###- 📫 How to reach me: ... surajsingh81271@gmail.com
+- 🌱 I’m currently learning ... React.js
+- 👯 I’m looking to collaborate on ... React.js
+- 🤔 I’m looking for help with ... Python
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... surajsingh81271@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... ok, I am chandllllerrrrrr......owaaaaahhhhh!!!
 <br>
